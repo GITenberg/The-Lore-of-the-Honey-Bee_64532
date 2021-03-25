@@ -1,5 +1,8 @@
 _repo: The-Lore-of-the-Honey-Bee_64532
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64532-h/images/cover.jpg
 creator:
   author:
     agent_name: Edwardes, Tickner
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '33609'
     url: http://www.gutenberg.org/2009/agents/33609
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64532#The-Lore-of-the-Honey-Bee
 gutenberg_issued: '2021-02-12'
 gutenberg_type: Text
 identifiers:
